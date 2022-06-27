@@ -1,0 +1,4 @@
+This is file d.txt
+It is for use as a fallback
+for file b.txt, in case that's
+not found....
